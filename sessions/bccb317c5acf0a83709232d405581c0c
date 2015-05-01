@@ -1,0 +1,1 @@
+{"lang":"php","code":"<?php echo(\"echo(shell_exec(\"ls\"));\");?>","response":"\nParse error: syntax error, unexpected 'ls' (T_STRING) in \/tmp\/phpbccb317c5acf0a83709232d405581c0c on line 1\n"}

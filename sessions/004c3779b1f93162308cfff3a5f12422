@@ -1,0 +1,1 @@
+{"lang":"php","code":"<?php echo(\"<?php echo(shell_exec('ls'));?>\");?>","response":"<?php echo(shell_exec('ls'));?>"}

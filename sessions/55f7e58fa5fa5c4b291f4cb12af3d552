@@ -1,0 +1,1 @@
+{"lang":"php","code":"<?php echo(index.php);?>","response":"\nNotice: Use of undefined constant index - assumed 'index' in \/tmp\/php55f7e58fa5fa5c4b291f4cb12af3d552 on line 1\n\nNotice: Use of undefined constant php - assumed 'php' in \/tmp\/php55f7e58fa5fa5c4b291f4cb12af3d552 on line 1\nindexphp"}
