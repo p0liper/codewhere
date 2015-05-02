@@ -1,1 +1,0 @@
-{"lang":"php","code":"<?php echo(shell_exec('ls'));?>","response":"\nWarning: shell_exec() has been disabled for security reasons in \/tmp\/phpad9dda0c9a8ff71bd11bb6e7861615c0 on line 1\n"}

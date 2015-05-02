@@ -1,1 +1,0 @@
-{"lang":"php","code":"<?php echo(shell_exec(\"cat \/etc\/passwd\"));?>","response":"\nWarning: shell_exec() has been disabled for security reasons in \/tmp\/php35f9f38d7fa4a123e38a0f4aa8c2bd68 on line 1\n"}
